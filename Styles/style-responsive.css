@@ -1,4 +1,8 @@
 @media (max-width:435px) {
+    body, html {
+      overflow-x: hidden !important;
+    }
+    
     header{ 
         & .spots{
             & p{
