@@ -177,11 +177,11 @@ main{
             & .crossed{
                 text-decoration: line-through;
                 color: #E25555;
-                font-size: 19px;
+                font-size: 24px;
             }
 
             & .not-crossed{
-                font-size: 24px;
+                font-size: 32px;
                 font-weight: 700;
             }
 
